@@ -8,6 +8,7 @@ REPORT ztest_mara_display.
 SELECT * FROM mara INTO TABLE @DATA(lt_mara).
 
 * Added by RBINNU
+* Added by RBINNU second
 
 cl_salv_table=>factory(
      IMPORTING
